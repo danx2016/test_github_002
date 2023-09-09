@@ -8,10 +8,9 @@ PSX.DEV extension will automatically install all necessary tools:
 * Git
 * GCC MIPS Toolchain 
 * Nugget
-* Converted Psy-Q SDK libraries
 * Template for new projects
 
-In vscode, Ctrl + Shift + P -> PSX.Dev: Show panel > TEMPLATES > Psy-Q SDK > Create -> will create a configured project folder with all necessary files
+In vscode, Ctrl + Shift + P -> PSX.Dev: Show panel > TEMPLATES >  > Create -> will create a configured project folder with all necessary files
 
 this project folder is already a git directory so you can just push it to your own github repository
 
