@@ -5,11 +5,11 @@
 install Visual Studio Code + PSX.DEV extension
 
 PSX.DEV extension will automatically install all necessary tools:
--Git
--GCC MIPS Toolchain 
--Nugget
--Converted Psy-Q SDK libraries
--Templates for new projects
+* Git
+* GCC MIPS Toolchain 
+* Nugget
+* Converted Psy-Q SDK libraries
+* Templates for new projects
 
 In vscode, Ctrl + Shift + P -> PSX.Dev: Show panel > TEMPLATES > Psy-Q SDK > Create -> will create a configured project folder with all necessary files
 
@@ -23,9 +23,9 @@ this repository is an example of that.
 ## How to Build this repository ##
 
 clone this repository using:
-
+'''
 git clone --recurse-submodules https://github.com/danx2016/test_github_002.git
-
+'''
 psyq-iwyu and nugget folders inside third_party directory are submodules, so you need to use '--recurse-submodules' flag to include them 
 
 then, just type 'make' to build
