@@ -33,3 +33,10 @@ make
 ```
 to build ps-exe
 
+## Special Thanks To ##
+
+* @Nicolas Noble
+* @spicyjpeg
+* @poly
+* and to all people from PSX.Dev
+
