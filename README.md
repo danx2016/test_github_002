@@ -23,10 +23,14 @@ this repository is an example of that.
 ## How to Build this repository ##
 
 clone this repository using:
-'''
+```
 git clone --recurse-submodules https://github.com/danx2016/test_github_002.git
-'''
+```
 psyq-iwyu and nugget folders inside third_party directory are submodules, so you need to use '--recurse-submodules' flag to include them 
 
-then, just type 'make' to build
+then, just type:
+```
+make
+```
+to build ps-exe
 
