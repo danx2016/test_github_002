@@ -17,7 +17,7 @@ this project folder is already a git directory so you can push it to your own gi
 
 in the "Source Control" tab of vscode, you can make the initial commits and "Remote > Add Remote" to link the project folder to your github repository
 
-this repository is an example of that.
+this repository is just an example of that.
 
 
 ## How to Build this repository ##
