@@ -15,7 +15,7 @@ In vscode, Ctrl + Shift + P -> PSX.Dev: Show panel > TEMPLATES > Psy-Q SDK > Cre
 
 this project folder is already a git directory so you can push it to your own github repository
 
-in the "Source Control" tab of vscode, you can commit and "Remote > Add Remote" to link the project folder to your github repository
+in the "Source Control" tab of vscode, you can make the initial commits and "Remote > Add Remote" to link the project folder to your github repository
 
 this repository is an example of that.
 
