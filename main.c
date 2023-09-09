@@ -3,6 +3,7 @@
 #include <libgpu.h>
 #include <libgte.h>
 #include <stdlib.h>
+#include <stdint.h>
 
 #define ARRAY_SIZE(a) (sizeof(a) / sizeof(*(a)))
 
