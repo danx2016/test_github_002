@@ -25,7 +25,7 @@ clone this repository using:
 ```
 git clone --recurse-submodules https://github.com/danx2016/test_github_002.git
 ```
-psyq-iwyu and nugget folders inside third_party directory are submodules, so you need to use '--recurse-submodules' flag to include them 
+psyq-iwyu and nugget folders inside third_party directory are git submodules (independently projects referenced in another locations), so you need to use '--recurse-submodules' flag to include them 
 
 then, with MIPS Toolchain installed, just type inside project directory:
 ```
