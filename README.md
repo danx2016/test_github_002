@@ -9,7 +9,7 @@ PSX.DEV extension will automatically install all necessary tools:
 * GCC MIPS Toolchain 
 * Nugget
 * Converted Psy-Q SDK libraries
-* Templates for new projects
+* Template for new projects
 
 In vscode, Ctrl + Shift + P -> PSX.Dev: Show panel > TEMPLATES > Psy-Q SDK > Create -> will create a configured project folder with all necessary files
 
