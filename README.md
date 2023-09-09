@@ -13,7 +13,7 @@ PSX.DEV extension will automatically install all necessary tools:
 
 In vscode, Ctrl + Shift + P -> PSX.Dev: Show panel > TEMPLATES > Psy-Q SDK > Create -> will create a configured project folder with all necessary files
 
-this project folder is already a git directory so you can push it to your own github repository
+this project folder is already a git directory so you can just push it to your own github repository
 
 in the "Source Control" tab of vscode, you can make the initial commits and "Remote > Add Remote" to link the project folder to your github repository
 
